@@ -11,11 +11,11 @@
 > Setting daily, weekly and monthly goals
 > Assertiveness to say no to inappropriate demands that distract from central duties
 ## Skills
-### * Knowledge of object oriented programming and design
-### * Knowledge of HTTP and Web
-### * Git
-### * Java 8, Spring Framework
-### * HTML, CSS, JavaScript
+ 1. Knowledge of object oriented programming and design
+ 2. Knowledge of HTTP and Web
+ 3. Git
+ 4. Java 8, Spring Framework
+ 5. HTML, CSS, JavaScript
 ## Code
 ```java
 public void withdraw(double amount) throws OverdraftException {
