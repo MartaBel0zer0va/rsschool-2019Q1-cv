@@ -3,9 +3,15 @@
 #### Troshka Marharyta 
 #### *(29)8262130* or _margarita1980rb@gmail.com_
 ## Summary
-### I can work in a challenging and dynamic environment.
+* Computer programmers can work in a challenging and dynamic environment.
+* Computer programmers need to understand, manipulate, and repair complex computer code.
+* Computer programmers may need help from another department or colleague to fix a software issue. It is important they have a collaborative mindset.
+#### I have to work my hardest in order to achieve progress in this field, and I do. About me:
+> Analyzing processes and selecting the simplest way to accomplish a task
+> Setting daily, weekly and monthly goals
+> Assertiveness to say no to inappropriate demands that distract from central duties
 ## Skills
-### * Knowledge of object oriented programming and design.
+### * Knowledge of object oriented programming and design
 ### * Knowledge of HTTP and Web
 ### * Git
 ### * Java 8, Spring Framework
