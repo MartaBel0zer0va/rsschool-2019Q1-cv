@@ -28,7 +28,42 @@ public void withdraw(double amount) throws OverdraftException {
     }
   ```
 ## Experience
+#### course project
+```java
+public class Customer {
 
+  private String firstName;
+  private String lastName;
+
+  private List<Account> accounts;
+
+  public Customer(String f, String l) {
+    firstName = f;
+    lastName = l;
+    accounts = new ArrayList<Account>(10);
+  }
+
+  public String getFirstName() {
+    return firstName;
+  }
+
+  public String getLastName() {
+    return lastName;
+  }
+
+  public void addAccount(Account acct) {
+    accounts.add(acct);
+  }
+
+  public int getNumOfAccounts() {
+    return accounts.size();
+  }
+
+  public Account getAccount(int account_index) {
+    return accounts.get(account_index);
+  }
+}
+```
 ## Education
 > BSU, MMF, Mathematics, 2017-2021
 > Courses in programming for the Java SE, 2018 
